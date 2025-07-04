@@ -28,22 +28,6 @@ The project follows a component-based architecture, organized into the following
 -   **Constants:** Stores constant values used across the application.
 -   **Pages:** Defines the different pages of the portfolio.
 
-## Installation
-
-To get a copy of the project up and running on your local machine, follow these steps:
-
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/sahil25123/3D-Portfolio
-    ```
-2.  Navigate to the project directory:
-    ```bash
-    cd 3D-Portfolio
-    ```
-3.  Install the necessary dependencies using npm:
-    ```bash
-    npm install
-    ```
 
 ## Usage
 
