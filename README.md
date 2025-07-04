@@ -53,16 +53,4 @@ The portfolio highlights several projects, including:
 -   **CodeTribe:** (Provide a brief description of this project and its purpose.)
 -   **SoftClique Website:** (Provide a brief description of this project, highlighting any specific features or technologies used.)
 
-(Consider adding links to the live demos or GitHub repositories for each project in this section.)
 
-## Contributing
-
-(Add a section here if you are open to contributions, outlining the process.)
-
-## License
-
-(Specify the license under which your project is distributed.)
-
-## Contact
-
-(Provide ways for others to contact you, e.g., email, social media links.)
