@@ -28,22 +28,6 @@ The project follows a component-based architecture, organized into the following
 -   **Constants:** Stores constant values used across the application.
 -   **Pages:** Defines the different pages of the portfolio.
 
-## Installation
-
-To get a copy of the project up and running on your local machine, follow these steps:
-
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/sahil25123/3D-Portfolio
-    ```
-2.  Navigate to the project directory:
-    ```bash
-    cd 3D-Portfolio
-    ```
-3.  Install the necessary dependencies using npm:
-    ```bash
-    npm install
-    ```
 
 ## Usage
 
@@ -69,16 +53,4 @@ The portfolio highlights several projects, including:
 -   **CodeTribe:** (Provide a brief description of this project and its purpose.)
 -   **SoftClique Website:** (Provide a brief description of this project, highlighting any specific features or technologies used.)
 
-(Consider adding links to the live demos or GitHub repositories for each project in this section.)
 
-## Contributing
-
-(Add a section here if you are open to contributions, outlining the process.)
-
-## License
-
-(Specify the license under which your project is distributed.)
-
-## Contact
-
-(Provide ways for others to contact you, e.g., email, social media links.)
