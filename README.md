@@ -49,7 +49,11 @@ npm run build
 
 The portfolio highlights several projects, including:
 
--   **Elite Tailor:** Elite Tailor offers custom-fit clothing, expert alterations, real-time order tracking, and an admin panel for seamless management.
+## Breast Cancer Prediction Model
+
+Empowering early detection with machine learning.
+
+This web application allows users to enter breast cancer features as a comma-separated list and predicts the likelihood of cancer using a trained ML model. The interface guides users on the required feature order and provides clear results, such as "No Cancer Detected" or recommendations for further checkups. The goal is to support early diagnosis and promote regular health monitoring.
 -   **CodeTribe:** (Provide a brief description of this project and its purpose.)
 -   **SoftClique Website:** (Provide a brief description of this project, highlighting any specific features or technologies used.)
 
